@@ -29,7 +29,7 @@ const projects = [
   {
     title: "My Portfolio",
     description: "A personal portfolio website showcasing my projects and skills.",
-    link:"https://github.com/irtizaa647/Portfolio.git",
+    link:"https://github.com/irtizaa647/My-Portfolio.git",
   }
 ];
 
